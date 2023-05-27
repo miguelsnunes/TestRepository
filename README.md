@@ -1,3 +1,0 @@
-# TestRepository
-
-Just a text
